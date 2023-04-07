@@ -3,10 +3,12 @@
 
 [paepcke.de/firstname](https://paepcke.de/firstname) 
 
-Map firstnames to attributes like male, female, ...
-
+Map firstnames to attributes like sex (male, female, ...)
 
 # TODO
+- [ ] map firstnames to cultural heritage
+- [ ] map firstnames to most likely native language (best guess)
+- [ ] map firstnames to most likely age (best guess)
 
 # DOCS
 
