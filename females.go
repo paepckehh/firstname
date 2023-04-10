@@ -3,7 +3,7 @@
 package firstname
 
 // Females maps a female firstname to bool
-var Females = map[string]bool{
+var Female = map[string]bool{
 	"salma":               true,
 	"tamqrah":             true,
 	"mildred":             true,
